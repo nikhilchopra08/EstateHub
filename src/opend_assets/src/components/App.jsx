@@ -5,6 +5,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import Item from "./Item";
 import Minter from "./Minter";
 import 'bootstrap/dist/css/bootstrap.min.css';
+import Image from "./Image";
 
 
 function App() {
@@ -13,6 +14,7 @@ function App() {
   return (
     <div className="App">
       <Header />
+      <Image/>
       <Footer />
     </div>
   );
