@@ -175,9 +175,9 @@ body {
   margin-bottom: 0.35em;
 }
 
-.bottom-space {
-  margin-top: -7vh;
-  margin-bottom: 1vh;
+.bottom-space{
+  height: 100vh;
+  width: 100vw;
 }
 
 .grid-container {
@@ -1246,7 +1246,8 @@ label[data-shrink="false"]
 }
 .makeStyles-price-23 {
   color: #5f64b5;
-  height: 20px;
+  height: 80px;
+  width: 130px;
   font-size: 10px;
   text-align: center;
   font-weight: bold;
@@ -1254,6 +1255,9 @@ label[data-shrink="false"]
   border-width: 2px;
   border-radius: 3px;
   margin-bottom: 5px;
+}
+.makeStyles-price-23 > span{
+  font-size: 20px;
 }
 .makeStyles-bodyText-24 {
   color: white;

@@ -13,9 +13,7 @@ function Footer() {
           <Row>
             <Col>
               <p>
-                The Internet Computer's largest digital marketplace for crypto
-                collectibles and non-fungible tokens (NFTs). Buy, sell, and
-                discover exclusive digital items.
+              Discover the future of real estate transactions at our premier online marketplace. Buy, sell, and explore exclusive properties seamlessly on our platform. Your dream home awaits – start your real estate journey with us today.
               </p>
             </Col>
             <Col>
